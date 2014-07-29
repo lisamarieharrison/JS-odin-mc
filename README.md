@@ -9,7 +9,7 @@ It's an easy way to get each week's project started, without having to muck arou
 Fork this repository:
 
 * [Fork me on Bitbucket](https://bitbucket.org/codesydney/codesydney-odinjs-templates/fork)
-* [Fork me on GitHub](https://porter.github.com/new) - copypasta the URL `https://bitbucket.org/codesydney/codesydney-odinjs` first!
+* [Fork me on GitHub](https://porter.github.com/new) - copypasta the URL `https://bitbucket.org/codesydney/codesydney-odinjs.git` first!
 
 ## How do I contribute? ##
 
