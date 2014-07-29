@@ -15,6 +15,6 @@ Fork this repository:
 
 We need people to create project templates ahead of time!
 
-Please ask one of the [administrators](https://bitbucket.org/account/user/codesydney/groups/) to add you to the Developers group - don't forget to tell them your bitbucket user name!
+Please ask one of the [administrators](https://bitbucket.org/account/user/codesydney/groups/) to add you to the Developers group - you'll need a [bitbucket](http://bitbucket.org) account first...
 
 You can then create and push a template or (extra marks!) create a pull request for a template.
